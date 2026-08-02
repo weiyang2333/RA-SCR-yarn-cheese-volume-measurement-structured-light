@@ -1,6 +1,5 @@
-# RA-SCR-yarn-cheese-volume-measurement-structured-light
-Description: Source code for rotation-axis constrained shared-cross-section registration and structured light volume measurement of yarn cheese packages.
 # Rotation-Axis-Constrained Shared-Cross-Section Registration for Yarn Cheese Volume Measurement
+Description: Source code for rotation-axis constrained shared-cross-section registration and structured light volume measurement of yarn cheese packages.
 
 This repository provides the source code and example results for a structured-light based 3D reconstruction and volume measurement method for yarn cheese packages.
 
