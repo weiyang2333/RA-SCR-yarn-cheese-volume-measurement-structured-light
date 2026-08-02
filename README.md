@@ -28,4 +28,3 @@ The proposed method estimates yarn cheese geometric parameters and calculates th
 
 ![Yarn Cheese Sample](yarn_cheese_sample.jpg)
 
-## Repository Structure
